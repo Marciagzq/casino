@@ -12,7 +12,7 @@ A dynamic **Casino Online** that uses a secure authentication system and saves t
 
 ##### Regarding of the code
 
-*  Libraries and languages used for accomplished this assignment 
+*  Libraries and languages used for accomplished this project
 
     #
     * __Front End__
