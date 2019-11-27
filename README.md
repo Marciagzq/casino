@@ -29,7 +29,7 @@ A dynamic **Casino Online** that uses a secure authentication system and saves t
 
 To learn more about Sequelize, click [here!](https://www.npmjs.com/package/sequelize)
 
-
+### Tutor says...
 **_"I've witnessed 4 bootcamps and this is a truly original idea. Great front end design, that splash page is simple, colorful, and looks modern."_**
 
 
