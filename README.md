@@ -37,7 +37,7 @@ To learn more about Sequelize, click [here!](https://www.npmjs.com/package/seque
 
 ### [Here you can execute my project](https://aqueous-reaches-91017.herokuapp.com/)
 
-![pic](./sempiternal/src/Tiles/screenshot.png)
+![](https://media.giphy.com/media/H4940P7PzHAUkGz9FH/giphy.gif)
 
 ### [Link to the original repository where you can see my participation based on commits](https://github.com/amrozinski88/casino)
 
