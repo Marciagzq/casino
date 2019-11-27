@@ -10,7 +10,7 @@ A dynamic **Casino Online** that uses a secure authentication system and saves t
 - - - - 
 
 
-##### Regarding of the code
+##### Regarding of my participation
 
 *  Libraries and languages used for accomplished this project
 
@@ -22,28 +22,24 @@ A dynamic **Casino Online** that uses a secure authentication system and saves t
         * Javascript
         * JQuery
         
-        ###
-    * __Back End__
-        * Node.js
-        * Express
-        * MySQL
-        * Sequelize 
-        * NPM
-
+         * Handling events
+         * Responsive Layaout.
+         * CSS & JavaScript Animation
 
 
 To learn more about Sequelize, click [here!](https://www.npmjs.com/package/sequelize)
+
+
+**_"I've witnessed 4 bootcamps and this is a truly original idea. Great front end design, that splash page is simple, colorful, and looks modern."_**
 
 
 ### [Here you can execute my project](https://aqueous-reaches-91017.herokuapp.com/)
 
 ![](https://media.giphy.com/media/H4940P7PzHAUkGz9FH/giphy.gif)
 
-### [Link to the original repository where you can see my participation based on commits](https://github.com/amrozinski88/casino)
+### [Link to the original repository where you can see my participation based on commits.](https://github.com/amrozinski88/casino)
 
 *If any suggestion, do not hesitate to contact me on my personal email: marcia.gzq@gmail.com
 I would appreciate any comment, I know it may be very beneficial on my professional growth.*
 
-
-Link to the original aplication where you can see my participation.
 
