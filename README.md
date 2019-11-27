@@ -4,7 +4,7 @@
 ![alt text](https://portfolium1.cloudimg.io/s/crop/128x128/https://cdn.portfolium.com/ugcs3%2Fedu%2F9tDF4wvqRdewUvBbZ97x_PegasusBrightGold150x150.png "Logo Title Text 1")
 - - -
 
-### Spades
+### Spades ♠️
 A dynamic **Casino Online** that uses a secure authentication system and saves the user’s information in a responsible and encrypted database.
 
 - - - - 
