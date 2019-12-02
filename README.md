@@ -11,6 +11,7 @@ A dynamic **Casino Online** that uses a secure authentication system and saves t
 
 
 ##### Regarding of my participation
+###### [Link to the original repository where you can see my participation based on commits.](https://github.com/amrozinski88/casino)
 
 *  Libraries and languages used for accomplished this project
 
@@ -37,7 +38,7 @@ To learn more about Sequelize, click [here!](https://www.npmjs.com/package/seque
 
 ![](https://media.giphy.com/media/H4940P7PzHAUkGz9FH/giphy.gif)
 
-### [Link to the original repository where you can see my participation based on commits.](https://github.com/amrozinski88/casino)
+###### [Link to the original repository where you can see my participation based on commits.](https://github.com/amrozinski88/casino)
 
 *If any suggestion, do not hesitate to contact me on my personal email: marcia.gzq@gmail.com
 I would appreciate any comment, I know it may be very beneficial on my professional growth.*
